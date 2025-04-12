@@ -1,4 +1,4 @@
-# Practice With Github VS Code
+# Practice With Github & VS Code
 
 ### Practice working with Github and VS Code together
 
